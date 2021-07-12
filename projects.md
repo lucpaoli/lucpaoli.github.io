@@ -1,7 +1,9 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
+math: true
+sidebar: false
 ---
 
-# Projects Test
+# 
