@@ -1,12 +1,9 @@
----
-layout: default
----
 # About me 
 ## Education 
 ### Imperial College London (Oct 2020 -- Present)
 *MEng Chemical Engineering*
 ### Royal Latin School (Sept 2013 -- Jul 2020)
-- A levels: Maths (A*), Further Maths (A*), Physics (A*), Chemistry (A)
+- A levels: Maths (A\*), Further Maths (A\*), Physics (A\*), Chemistry (A)
 
 ## Experience 
 ### Thermophysics Laboratory (Jun 2021 -- Sept 2021)
