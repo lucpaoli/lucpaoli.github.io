@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # About me 
 ## Education 
 ### Imperial College London (Oct 2020 -- Present)
