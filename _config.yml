@@ -1,6 +1,6 @@
 title: Luc Paoli
 description: A personal portfolio and CV website
-author: Luc Paoli
+author: Luc Paoli author
 avatar: /assets/images/profile_photo_sq.png
 email: luc@lucpaoli.com
 
@@ -33,7 +33,6 @@ subscribe: false
 # =========================
 # logo: 
 social:
-  name: Luc Paoli
   links:
     - https://github.com/lucpaoli
     - https://www.linkedin.com/in/luc-paoli/
