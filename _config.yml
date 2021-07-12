@@ -1,8 +1,8 @@
-title: Personal Website
-description: An online portfolio and resume
-author: Luc Paoli
-avatar: assets/images/profile_photo_sq.png
-email: luc@lucpaoli.com
+title: Hamilton
+description: A minimal and beautiful Jekyll theme best for writing and note-taking.
+author: Shangzhi Huang
+avatar: /logo.png
+email: ngzhio@gmail.com
 
 plugins:
   - jekyll-seo-tag
@@ -29,9 +29,15 @@ exclude:
 
 # Jekyll SEO Tag (Optional)
 # =========================
+twitter:
+  username: ngzhio
+  card: summary
+logo: logo.png
 social:
-  name: Luc Paoli
+  name: Shangzhi Huang
   links:
-    - https://www.linkedin.com/in/luc-paoli/
-    - https://github.com/lucpaoli
+    - https://twitter.com/ngzhio
+    - https://www.facebook.com/ngzhio
+    - https://github.com/ngzhio
+google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
