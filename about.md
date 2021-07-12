@@ -1,8 +1,7 @@
 ---
 layout: page
-title: About Me
+title: About
 ---
-# About me 
 ## Education 
 ### Imperial College London (Oct 2020 -- Present)
 *MEng Chemical Engineering*
