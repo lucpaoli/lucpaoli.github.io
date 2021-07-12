@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-author_profile: false
+author_profile: true
 ---
 
 # Luc Paoli, <br> Chemical Engineering Student
