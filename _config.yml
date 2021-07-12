@@ -1,2 +1,9 @@
+# basic options
 name: Luc Paoli
-title: null
+title: Luc Paoli - Website
+email: luc@lucpaoli.com
+description: Online CV
+
+# build settings
+markdown: kramdown
+theme: minima
