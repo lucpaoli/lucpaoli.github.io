@@ -23,6 +23,6 @@ title: About Me
 - Developing two-phase Simulink models of propulsion and filling systems 
 
 ## Extracurriculars 
-### Philosophy Horizons (Distinction)
+### Philosophy Horizons (Oct 2020 -- Jan 2021)
 - Additional humanities module alongside my degree at Imperial College
-- Wrote short essay on the philosphy of art 
+- Wrote short essay on the philosphy of art, achieving a distinction in the module
