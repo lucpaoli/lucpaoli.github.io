@@ -1,5 +1,5 @@
 ---
-layout: no-sidebar
+layout: page
 title: Projects
 permalink: /projects/
 math: true
