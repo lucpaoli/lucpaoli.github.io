@@ -2,8 +2,8 @@
 main:
   - title: "Home"
     url: https://www.lucpaoli.com
-  - title: "About"
-    url: https://www.lucpaoli.com/about
+  - title: "Projects"
+    url: https://www.lucpaoli.com/projects
   - title: "CV"
     url: https://drive.google.com/file/d/1njU9x1oV5apUX4_1Lye_bcnLLlVFul9l/view?usp=sharing
   # - title: "About"
