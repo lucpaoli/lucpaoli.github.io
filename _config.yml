@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Luc Paoli"
-  avatar           : "/assets/images/profile_photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile_photo_sq.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Chemical engineering student"
   location         : "London"
   email            : "luc@lucpaoli.com"
@@ -129,7 +129,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/lucpaoli"
     - label: "Linkedin"
-      icon: "fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/luc-paoli/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
