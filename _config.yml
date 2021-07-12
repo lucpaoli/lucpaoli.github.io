@@ -104,12 +104,18 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
+# custom sidebar
+sidebar:
+  - title: "Luc Paoli"
+    image: /assets/images/profile_photo_sq.png
+    image_alt: "image"
+    text: "Chemical Engineering student at Imperial College London"
 
 # Site Author
 author:
   name             : "Luc Paoli"
   avatar           : "/assets/images/profile_photo_sq.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Chemical engineering student"
+  bio              : "Chemical engineering student at Imperial College London"
   location         : "London"
   email            : "luc@lucpaoli.com"
   links:
@@ -148,7 +154,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/lucpaoli"
     - label: "Linkedin"
-      icon: "fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/luc-paoli/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
