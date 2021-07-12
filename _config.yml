@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+permalink: /:categories/:year/:month/:title/
+title: Luc Paoli
+description: A personal resume site 
