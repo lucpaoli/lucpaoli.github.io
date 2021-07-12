@@ -1,8 +1,7 @@
 # basic options
 name: Luc Paoli
-title: Luc Paoli - Website
+title: Luc Paoli 
 email: luc@lucpaoli.com
-description: Online CV
 
 # build settings
 markdown: kramdown
