@@ -2,6 +2,7 @@ title: Luc Paoli
 description: A personal portfolio and CV website
 avatar: /assets/images/profile_photo_sq.png
 email: luc@lucpaoli.com
+location: London
 
 plugins:
   - jekyll-seo-tag
@@ -31,9 +32,9 @@ subscribe: false
 # Jekyll SEO Tag (Optional)
 # =========================
 # logo: 
-social:
-  links:
-    - https://github.com/lucpaoli
-    - https://www.linkedin.com/in/luc-paoli/
+# social:
+  # links:
+    # - https://github.com/lucpaoli
+    # - https://www.linkedin.com/in/luc-paoli/
 # google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
