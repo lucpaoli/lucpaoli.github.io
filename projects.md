@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: post
 title: Projects
 permalink: /projects/
 math: true
-toc: true
 ---
 
 ## Coming Soon!
