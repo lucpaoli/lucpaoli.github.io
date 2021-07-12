@@ -1,7 +1,7 @@
 title: Luc Paoli
 description: A personal portfolio and CV website
 author: Luc Paoli
-avatar: /assets/profile_photo_sq.png
+avatar: /assets/images/profile_photo_sq.png
 email: luc@lucpaoli.com
 
 plugins:
@@ -12,6 +12,8 @@ plugins:
 
 paginate: 10
 skin: daylight
+subscribe: false
+
 # Uncomment the below line and set the tracking ID for enabling Google Analytics
 # 
 # google_analytics: 
