@@ -1,6 +1,6 @@
 title: Luc Paoli
 description: A personal portfolio and CV website
-author: Shangzhi Huang
+author: Luc Paoli
 avatar: /assets/profile_photo_sq.png
 email: luc@lucpaoli.com
 
@@ -11,7 +11,7 @@ plugins:
   - jekyll-paginate
 
 paginate: 10
-
+skin: Daylight
 # Uncomment the below line and set the tracking ID for enabling Google Analytics
 # 
 # google_analytics: 
@@ -22,10 +22,10 @@ paginate: 10
 
 # Jekyll
 # ======
-exclude:
-  - scripts/
-  - README.md
-  - jekyll-theme-hamilton.gemspec
+# exclude:
+#   - scripts/
+#   - README.md
+#   - jekyll-theme-hamilton.gemspec
 
 # Jekyll SEO Tag (Optional)
 # =========================
