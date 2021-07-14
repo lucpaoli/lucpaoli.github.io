@@ -1,7 +1,12 @@
+- title: Home
+  url: /
+- title: Notes
+  url: /web-notes/
 - title: Projects
   url: /projects/
 - title: CV
   url: https://drive.google.com/file/d/1njU9x1oV5apUX4_1Lye_bcnLLlVFul9l/view?usp=sharing
+
 # - title: More
   # sublinks:
     # - title: FAQ
